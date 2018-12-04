@@ -20,8 +20,6 @@ function run(){
 	
 
 	answer = parseInt(input.value);
-
-	console.log(rand, answer);
 	input.value = null;
 
 	if (answer == rand) {
